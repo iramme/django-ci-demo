@@ -3,3 +3,4 @@ pytest
 pytest-django
 djangorestframework
 django-cors-headers
+psycopg[binary]
